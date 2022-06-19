@@ -1,6 +1,6 @@
-#Mandelbrot
+# Mandelbrot
 
-Getting rusty before 30.
+Getting rusty before 30 🦀🦀🦀
 
 ```sh
 cargo build
